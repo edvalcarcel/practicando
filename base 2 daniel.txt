@@ -1,2 +1,6 @@
 daniel modificando
+<<<<<<< HEAD
 esto se cambia porque quiero
+=======
+juancarlos daññandp
+>>>>>>> juan_carlos
